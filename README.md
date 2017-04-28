@@ -25,11 +25,11 @@ phonegap create MyAppName --id "com.phonegap.myappname" --name "MyAppName" --tem
 then
 
 ```
-cd MyAppName
+cd MyAppName && cordova platform add browser && npm i
 ```
-
+or
 ```
-npm i
+cd MyAppName && phonegap platform add browser && npm i
 ```
 
 ### Run the app in the browser / simulator
