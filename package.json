@@ -1,0 +1,24 @@
+{
+  "name": "phonegap-template-framework7-react",
+  "version": "1.0.0",
+  "description": "PhoneGap Template using Framework7, React, ES2015, Webpack, and hot module reloading",
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/emmanuellmota/phonegap-template-framework7-react/issues"
+  },
+  "homepage": "https://github.com/emmanuellmota/phonegap-template-framework7-react#readme",
+  "author": "Emmanuel Mota",
+  "contributors": [
+    {
+      "name": "Emmanuel Mota",
+      "email": "me@emmanuellmota.com"
+    }
+  ],
+  "license": "MIT"
+}
