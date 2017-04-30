@@ -1,4 +1,4 @@
-# React Hot Reloading Template
+# Framework7 React Hot Reloading Template
 
 Cordova / PhoneGap Template using Framework7, React, ES2017, Webpack, and hot module reloading
 
