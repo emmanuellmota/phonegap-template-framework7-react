@@ -2,9 +2,7 @@
 
 Cordova / PhoneGap Template using Framework7, React, ES2017, Webpack, and hot module reloading
 
-<p align="center">
-<img align="center" src="http://media.giphy.com/media/l4FGkiMLyua8iP040/giphy.gif" width="100%" alt="Demo"/>
-</p>
+![Demo](phonegap-template-framework7-react.gif)
 
 ## Getting Started
 
