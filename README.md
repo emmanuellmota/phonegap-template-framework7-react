@@ -2,6 +2,8 @@
 
 Cordova / PhoneGap Template using Framework7, React, ES2017, Webpack, and hot module reloading
 
+![](https://media.giphy.com/media/l4FGkiMLyua8iP040/giphy.gif)
+
 ## Getting Started
 
 ### Prerequisites
